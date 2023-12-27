@@ -1,2 +1,2 @@
-this is from rinku
+this is from vikas
 a testing file for git
